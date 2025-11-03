@@ -1,0 +1,16 @@
+{
+  "name": "formulario-produtos",
+  "version": "1.0.0",
+  "description": "Sistema de cadastro de produtos - Atividade 2 PPI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["express", "formulario", "ppi"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
