@@ -58,3 +58,5 @@ app.get('/api/produtos', (req, res) => {
 app.listen(porta, () => {
     console.log(`Servidor rodando em http://localhost:${porta}`);
 });
+
+module.exports = app;
